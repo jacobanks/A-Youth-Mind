@@ -1,0 +1,29 @@
+body {
+  background-image: url("../img/Nightime.jpeg");
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 55px;
+  padding-top: 150px;
+  font-family: "HelveticaNeue", "Helvetica Neue", "HelveticaNeueRoman", "HelveticaNeue-Roman", "Helvetica Neue Roman", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+}
+
+a {
+    border-radius: 5%;
+
+    width: 36px;
+    height: 36px;
+    padding: 10px;
+
+    border: 2px solid #fff;
+    color: #fff;
+
+    text-decoration: none;
+}
+
+a:hover {
+  color: #c2c2c2;
+  border: 2px solid #c2c2c2;
+}
