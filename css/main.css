@@ -7,20 +7,24 @@ h1 {
   text-align: center;
   font-size: 55px;
   padding-top: 150px;
+  padding-left: 300px;
   font-family: "HelveticaNeue", "Helvetica Neue", "HelveticaNeueRoman", "HelveticaNeue-Roman", "Helvetica Neue Roman", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
 }
 
 a {
-    border-radius: 5%;
+  border-radius: 5%;
 
-    width: 36px;
-    height: 36px;
-    padding: 10px;
+  width: 36px;
+   height: 36px;
+  padding: 10px;
 
-    border: 2px solid #fff;
-    color: #fff;
+  border: 2px solid #fff;
+  color: #fff;
 
-    text-decoration: none;
+  margin-left: 300px;
+
+  text-align: center;
+  text-decoration: none;
 }
 
 a:hover {
