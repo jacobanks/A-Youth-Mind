@@ -15,7 +15,7 @@ a {
   border-radius: 5%;
 
   width: 36px;
-   height: 36px;
+  height: 36px;
   padding: 10px;
 
   border: 2px solid #fff;
@@ -23,7 +23,7 @@ a {
 
   margin-left: 300px;
 
-  text-align: center;
+  font-size: 17px;
   text-decoration: none;
 }
 
@@ -34,5 +34,5 @@ a:hover {
 
 div {
   padding-left: 50px;
-  margin-top: -230px;
+  margin-top: -300px;
 }
