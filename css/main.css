@@ -11,7 +11,7 @@ h1 {
   font-family: "HelveticaNeue", "Helvetica Neue", "HelveticaNeueRoman", "HelveticaNeue-Roman", "Helvetica Neue Roman", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
 }
 
-a {
+#kickstarter, #thunderclap{
   border-radius: 5%;
 
   width: 36px;
@@ -27,7 +27,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+#kickstarter:hover, #thunderclap:hover {
   color: #c2c2c2;
   border: 2px solid #c2c2c2;
 }
