@@ -188,14 +188,15 @@ p.ref {
 }
 
 #thunderclap, #twitter {
-/*	margin-right: 600px;
-	margin-top: 50px;*/
 	display: inline;
-	padding: 50px;
+}
+
+#thunderclap {
+	padding-right: 25px;
 }
 
 #twitter {
-	margin-bottom: 200px;
+	padding-left: 25px;
 }
 
 @media screen and (max-width: 40em) {
