@@ -187,9 +187,15 @@ p.ref {
 	font-size: 1em;
 }
 
-#thunderclap {
-	margin-right: 600px;
-	margin-top: 50px;
+#thunderclap, #twitter {
+/*	margin-right: 600px;
+	margin-top: 50px;*/
+	display: inline;
+	padding: 50px;
+}
+
+#twitter {
+	margin-bottom: 200px;
 }
 
 @media screen and (max-width: 40em) {
