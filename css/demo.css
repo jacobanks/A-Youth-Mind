@@ -83,12 +83,14 @@ p.ref {
 	padding: 1em 0;
     z-index: 150;
     box-shadow: 0 2px 3px rgba(0, 0, 0, .4)
+    
 }
 
 .codrops-top-nav{
  position: fixed;
-    top: 0;
-    width: 100%;
+top: 0;
+width: 100%;
+    z-index:inherit 
 }
 
 .codrops-top a {

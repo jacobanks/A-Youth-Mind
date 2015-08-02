@@ -103,7 +103,7 @@
 var mn =$("codrops-top");
 
 $(window).scroll(function(){
-    if( $(this).scrollTop()>250){
+    if( $(this).scrollTop()>750){
         mn.addClass(".codrops-top-nav");
     }
         else{ mn.removeClass(".codrops-top-nav");
