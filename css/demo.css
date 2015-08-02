@@ -64,18 +64,31 @@ p.ref {
 	display: block;
 	padding: 1em 0 1.5em;
 	font-size: 36%;
-	color: #95a5a6;
+	color: #fff;
 	line-height: 1.4;
 }
 
 /* To Navigation Style */
+.position{
+    padding-top: 600px;
+    background-color: inherit
+    
+}
 .codrops-top {
 	width: 100%;
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 0.69em;
 	text-align: center;
-	padding: 3em 0;
+	padding: 1em 0;
+    z-index: 150;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, .4)
+}
+
+.codrops-top-nav{
+ position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .codrops-top a {
