@@ -65,7 +65,7 @@ p.ref {
 	display: block;
 	padding: 1em 0 1.5em;
 	font-size: 36%;
-	color: #fff;
+	color: #333;
 	line-height: 1.4;
 }
 
@@ -211,9 +211,6 @@ width: 100%;
 	display: inline;
 }
 
-#thunderclap {
-	padding-right: 25px;
-}
 
 #twitter {
 	padding-left: 25px;

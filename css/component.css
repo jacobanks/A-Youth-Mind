@@ -100,3 +100,20 @@
 		font-size: 4em;
 	}
 }
+
+#africa {
+    display: inline-block;
+    
+}
+#asia {
+    vertical-align:top;
+    display: inline-block;
+    
+}
+
+.partner-image{
+    display: inline-block;
+    vertical-align:top;
+    padding-top: 25px;
+    
+}
