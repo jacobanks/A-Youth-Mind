@@ -58,6 +58,7 @@ p.ref {
 	font-size: 2.8em;
 	line-height: 1;
 	font-weight: 200;
+    margin-top: 2cm;
 }
 
 .codrops-header h1 span {
@@ -80,9 +81,13 @@ p.ref {
 	font-weight: 700;
 	font-size: 0.69em;
 	text-align: center;
-	padding: 1em 0;
+	padding: 0;
     z-index: 150;
-    box-shadow: 0 2px 3px rgba(0, 0, 0, .4)
+    box-shadow: 0 2px 3px rgba(0, 0, 0, .4);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
     
 }
 
